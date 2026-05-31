@@ -1,5 +1,4 @@
-# python-rfm-customer-analysis
-RFM customer segmentation analysis using Python and Pandas on 23,000+ transactions
+
 # Python Mini Project – Customer RFM Analysis
 
 **Course:** IBM Data Analyst Program – Career247 (Batch 13)  
